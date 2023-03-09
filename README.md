@@ -16,14 +16,8 @@
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
-[![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
-[![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
-[![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
-[![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
-[![Music Production](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&logoColor=red&color=fc0100)](https://www.image-line.com/)
-[![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
+[![Main OS](https://img.shields.io/static/v1?label=OS&logo=Manjaro&message=Manjaro&color=Lightgreen)](https://manjaro.org/)
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
-[![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p>
 
 <p align="center">
