@@ -8,14 +8,15 @@
 <h2 align="center">⚡ STATS ⚡</h2>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sldgr99&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sldgr99&show_icons=true&theme=github_dark&hide_border=true"> 
 </p>
 <p align="center">
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sldgr99&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sldgr99's github streak stats"> 
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=sldgr99&theme=github-dark&hide_border=true"> 
 </p>
 <p align="center">
-<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sldgr99&theme=github_dark" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sldgr99&theme=github_dark"> 
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sldgr99&theme=github_dark" > 
 </p>
+<p>
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sldgr99&theme=github_dark&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=sldgr99&theme=github_dark&no-frame=False&row=1&&margin-w=20&no-bg=true&hide_border=true"> 
 </p>
@@ -26,7 +27,7 @@
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
 [![VCS](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&color=orange)](https://git-scm.com/)
 </p>
-<br> <h2 align="center">⚙️ PROGRAMMING LANGUAGES ⚙️ </h2>
+<br> <h2 align="center">⚙️ PROGRAMMING LANGUAGES AND FRAMEWORK USED ⚙️ </h2>
 <br><p align="center">
 
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
