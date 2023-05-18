@@ -1,24 +1,23 @@
-# giorgiosld
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20giorgiosld!&descAlign=50&descSize=30&animation=twinkling">
 </p>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I+love+to+learn+new+technlogies.;I+love+cybersecurity+and+programming.;I+love+to+do+lots+of+projects!;" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&lines=Welcome+to+my+github+page.;+I'm+a+ctf+player+who+loves+new+technologies.;I+like+cyber+security+and+programming.;Feel+free+to+connect+with+me+via+social." alt="Typing SVG" /></a> </p>
 
 <h2 align="center">⚡ STATS ⚡</h2>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sldgr99&show_icons=true&theme=github_dark&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=giorgiosld&show_icons=true&theme=github_dark&hide_border=true"> 
 </p>
 <p align="center">
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=sldgr99&theme=github-dark&hide_border=true"> 
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=giorgiosld&theme=github-dark&hide_border=true"> 
 </p>
 <p align="center">
-<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sldgr99&theme=github_dark" > 
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giorgiosld&theme=github_dark" > 
 </p>
 <p>
-<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sldgr99&theme=github_dark&show_icons=true&bg_color=0111111"> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=sldgr99&theme=github_dark&no-frame=False&row=1&&margin-w=20&no-bg=true&hide_border=true"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giorgiosld&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=giorgiosld&theme=github_dark&no-frame=False&row=1&&margin-w=20&no-bg=true&hide_border=true"> 
 </p>
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
