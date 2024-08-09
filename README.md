@@ -1,8 +1,11 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20giorgiosld!&descAlign=50&descSize=30&animation=twinkling">
-</p>
+👋 Hi there! I'm Giorgio, currently pursuing a Master’s degree through a double degree program at the **University of Camerino** and **Reykjavik University**. My academic focus is on **Cybersecurity** 🛡️ and its intersection with **Machine Learning** 🤖.
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&lines=Welcome+to+my+github+page.;+I'm+a+ctf+player+who+loves+new+technologies.;I+like+cyber+security+and+programming.;Feel+free+to+connect+with+me+via+social." alt="Typing SVG" /></a> </p>
+### 🎓 Academic Background
+- **University of Camerino** 🇮🇹: Specializing in Cybersecurity.
+- **Reykjavik University** 🇮🇸: Exploring advanced topics in Cybersecurity and the integration of Machine Learning with security practices.
+
+### 💡 What Drives Me
+I'm deeply passionate about **Cybersecurity** 🛡️ and **Linux** 🐧. My journey in this field is fueled by a love for solving complex problems 🧩, learning continuously 📚, and applying my knowledge through hands-on experiences like Capture the Flag (CTF) competitions 🎯.
 
 <h2 align="center">⚡ STATS ⚡</h2>
 
