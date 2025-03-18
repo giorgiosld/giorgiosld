@@ -1,14 +1,46 @@
-👋 Hi there! I'm Giorgio, currently pursuing a Master’s degree through a double degree program at the **University of Camerino** and **Reykjavik University**. My academic focus is on **Cybersecurity** 🛡️ and its intersection with **Machine Learning** 🤖.
+<h1 align="center">👋 Hi there! I'm Giorgio</h1>
 
-### 🎓 Academic Background
-- **University of Camerino** 🇮🇹: Specializing in Cybersecurity.
-- **Reykjavik University** 🇮🇸: Exploring advanced topics in Cybersecurity and the integration of Machine Learning with security practices.
+<p align="center">
+🚀 Cybersecurity Engineer | AI & Kernel Security Researcher | eBPF & Memory Forensics Enthusiast
+</p>
 
-### 💡 What Drives Me
-I'm deeply passionate about **Cybersecurity** 🛡️ and **Linux** 🐧. My journey in this field is fueled by a love for solving complex problems 🧩, learning continuously 📚, and applying my knowledge through hands-on experiences like Capture the Flag (CTF) competitions 🎯.
+---
 
-<h2 align="center">⚡ STATS ⚡</h2>
+<h2 align="center"> 🎓 About Me </h2>
 
+I am pursuing a double MSc in **Artificial Intelligence** at **Reykjavik University** and **Cybersecurity** at **University of Camerino**. My research focuses on **log anomaly detection with LLMs** and **machine learning in cybersecurity**, exploring AI-driven security solutions to enhance **threat detection and system resilience**.  
+
+<h2 align="center"> 🛠️ Research & Technical Expertise </h2>
+
+I specialize in **memory forensics, kernel security, and AI-driven threat detection**. Passionate about **low-level programming**, I explore **Rust and eBPF** for **advanced in-kernel security monitoring**. My master’s thesis focuses on **eBPF with the Aya framework**, developing **high-performance security mechanisms** for **real-time anomaly detection and threat defense**.
+
+
+<h2 align="center"> ⚙️ TECH STACK </h2>
+
+### **🔹 Core Technologies**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+
+### **🐧 Linux & System Expertise**  
+I work extensively with **Linux environments**, tailoring each for specific needs:  
+- **Parrot OS** 🛡️ is my **daily driver**, optimized for **security research, development, and forensic analysis**.  
+- **RHEL 9** 🏢 is my go-to for **enterprise security, system administration, and automation**.  
+
+### **🛠 System Virtualization & Automation**  
+I actively use **virtualization and containerization** for system testing and development:  
+
+![QEMU](https://img.shields.io/badge/QEMU-FC0000?style=flat&logo=qemu&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Proxmox](https://img.shields.io/badge/Proxmox-ED8B00?style=flat) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+---
+
+<h2 align="center"> 📈 GitHub Stats </h2>
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=giorgiosld&show_icons=true&theme=github_dark&hide_border=true"> 
 </p>
@@ -16,36 +48,21 @@ I'm deeply passionate about **Cybersecurity** 🛡️ and **Linux** 🐧. My jou
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=giorgiosld&theme=github-dark&hide_border=true"> 
 </p>
 <p align="center">
-<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giorgiosld&theme=github_dark" > 
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giorgiosld&theme=github_dark"> 
 </p>
-<p>
-<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giorgiosld&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=giorgiosld&theme=github_dark&no-frame=False&row=1&&margin-w=20&no-bg=true&hide_border=true"> 
 </p>
 
-<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
-<br> <p align="center"> 
-[![Main OS](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=Manjaro&color=#1de9b6)](https://manjaro.org/)
-[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
-[![VCS](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&color=orange)](https://git-scm.com/)
-</p>
-<br> <h2 align="center">⚙️ PROGRAMMING LANGUAGES AND FRAMEWORK USED ⚙️ </h2>
-<br><p align="center">
+---
 
-[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/it/)
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![NODE](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
-[![REACT](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
-[![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)]()
-[![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=flat)]()
-[![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
-</p>
+<h2 align="center"> 🔍 Find Me Online </h2>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-</p>
+- 💼 **[LinkedIn](https://www.linkedin.com/in/giorgio-saldana-096130258/)**
+- 🏴‍☠️ **[GitHub](https://github.com/giorgiosld)**
+- 📜 **[Portfolio](https://giorgiosld.github.io/)**
+- 📩 giorgiosaldana99@gmail.com
+
+---
+
+💻 **Always exploring the intersection of AI, Cybersecurity, and Kernel Programming.** Let's connect! 🤝
